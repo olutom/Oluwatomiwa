@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oluwatomiwa/static/css/main.238a8d8e.css",
+    "main.js": "/oluwatomiwa/static/js/main.468ef0e3.js",
+    "static/js/453.4091b3d7.chunk.js": "/oluwatomiwa/static/js/453.4091b3d7.chunk.js",
+    "index.html": "/oluwatomiwa/index.html",
+    "main.238a8d8e.css.map": "/oluwatomiwa/static/css/main.238a8d8e.css.map",
+    "main.468ef0e3.js.map": "/oluwatomiwa/static/js/main.468ef0e3.js.map",
+    "453.4091b3d7.chunk.js.map": "/oluwatomiwa/static/js/453.4091b3d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.238a8d8e.css",
+    "static/js/main.468ef0e3.js"
+  ]
+}
